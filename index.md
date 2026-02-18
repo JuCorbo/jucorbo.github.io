@@ -11,7 +11,7 @@ I study how population geometry in primary visual cortex supports perceptual dec
 
 ---
 
-## Research
+## Research Projects
 I am fascinated by the constructive nature of perception. I think that transforming imprecise, discrete and abstract, sensory inputs into a continuous, meaningful perception is a *tour the force*. Following R.L. Gregory, I believe perception is essentially an hypothesis generation realised using knowledge derived from the world's statistical structure, from basic principles of perceptual organization to higher-level expectations about what objects are and how they behave. I think that the sensory cortices play a central role in that hypothesis generation  
 
 ### Spatiotemporal context reshaping of representations
@@ -30,10 +30,53 @@ Ultimately, my goal is to bridge sensory encoding and perceptual decision-making
 ---
 
 ## Publications
+### 2026
+**Meszéna, B., Murray, K. T., Corbo, J., Erkat, O. B., Hajnal, M. A., Polack, P.-O., & Orbán, G. (2026).**  
+*TAVAE: A VAE with Adaptable Priors Explains Contextual Modulation in the Visual Cortex.*  
+arXiv preprint arXiv:2602.11956.  
+[Link](https://arxiv.org/abs/2602.11956)
 
-- Corbo et al., 2025 – Nature Communications  
-- Corbo et al., 2022 – eNeuro  
-- Corbo et al., 2018 – Journal of Neuroscience  
+---
+
+### 2025
+
+**Corbo, J., Erkat, O. B., McClure Jr., J., Khdour, H., & Polack, P.-O. (2025).**  
+*Discretized representations in V1 predict suboptimal orientation discrimination.*  
+Nature Communications, 16(1), 41.  
+[Link](https://www.nature.com/articles/s41467-024-55409-1)
+
+---
+
+### 2022
+
+**Corbo, J., McClure, J. P., Erkat, O. B., & Polack, P.-O. (2022).**  
+*Dynamic distortion of orientation representation after learning in the mouse primary visual cortex.*  
+Journal of Neuroscience, 42(21), 4311–4325.  
+[Link](https://www.jneurosci.org/content/42/21/4311)
+
+**McClure Jr., J. P., Erkat, O. B., Corbo, J., & Polack, P.-O. (2022).**  
+*Estimating how sounds modulate orientation representation in the primary visual cortex using shallow neural networks.*  
+Frontiers in Systems Neuroscience, 16, 869705.  
+[Link](https://www.frontiersin.org/articles/10.3389/fnsys.2022.869705)
+
+---
+
+### 2020
+
+**Caron-Guyon, J., Corbo, J., Zennou-Azogui, Y., Xerri, C., Kavounoudias, A., & Catz, N. (2020).**  
+*Neuronal encoding of multisensory motion features in the rat associative parietal cortex.*  
+Cerebral Cortex, 30(10), 5372–5386.  
+[Link](https://academic.oup.com/cercor/article/30/10/5372/5836874)
+
+---
+
+### 2018
+
+**Corbo, J., Zennou-Azogui, Y., Xerri, C., & Catz, N. (2018).**  
+*Cortical merging in S1 as a substrate for tactile input grouping.*  
+eNeuro, 5(1).  
+[Link](https://www.eneuro.org/content/5/1/ENEURO.0342-17.2017)
+
 
 ---
 
