@@ -5,7 +5,6 @@
   --text: #111;
   --muted: #444;
   --panel: rgba(255,255,255,0.2);
-  --border: #c8c8c8;
 }
 
 html, body {
@@ -133,6 +132,4 @@ a:visited {
   font-size: 12px;
 }
 
-.header, .content, .section {
-  background: transparent !important;
-}
+
