@@ -34,7 +34,6 @@ body {
 
 .header {
   text-align: center;
-  background: var(--panel);
   border: 1px solid var(--border);
   padding: 18px 14px 14px 14px;
 }
@@ -80,7 +79,6 @@ body {
 
 .content {
   margin-top: 14px;
-  background: var(--panel);
   border: 1px solid var(--border);
   padding: 18px 18px;
 }
