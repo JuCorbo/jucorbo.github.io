@@ -132,3 +132,7 @@ a:visited {
   color: #333;
   font-size: 12px;
 }
+
+.header, .content, .section {
+  background: transparent !important;
+}
