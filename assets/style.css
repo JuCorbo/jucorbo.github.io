@@ -116,6 +116,30 @@ p {
   margin: 0 0 12px 0;
 }
 
+
+.pub-year {
+  display: flex;
+  align-items: center;
+  margin: 36px 0 14px 0;
+
+  font-family: "Courier New", monospace; /* retro */
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--blue);
+}
+
+.pub-year::after {
+  content: "";
+  flex: 1;
+  height: 2px;
+  margin-left: 14px;
+
+  background: #9aa3ad;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.15);
+}
+
+
+
 .pubs {
   margin: 0;
   padding-left: 18px;
