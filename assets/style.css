@@ -22,7 +22,7 @@ body {
 
   font-family: "Times New Roman", Times, serif;
   font-size: 17px;
-  line-height: 1.65;
+  line-height: 1.5;
 }
 
 .page {
@@ -33,7 +33,7 @@ body {
 
 .header {
   text-align: center;
-  padding: 18px 14px 14px 14px;
+  padding: 18px 14px 7px 14px;
 }
 
 .brain {
