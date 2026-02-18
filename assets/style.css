@@ -18,7 +18,7 @@ body {
   background-color: #bdbdbd;
 
   /* Replace with your tiled texture */
-  background-image: url("img/bg-tile.png");
+  background-image: url("bg-tile.png");
   background-repeat: repeat;
 
   font-family: "Verdana", "Arial", sans-serif;
