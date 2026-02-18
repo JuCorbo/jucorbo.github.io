@@ -80,23 +80,14 @@ body {
   padding: 18px 18px;
 }
 
-.section + .section::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
+.divider{
+  border: 0;
   height: 3px;
-
-  background: linear-gradient(
-    to bottom,
-    #e8e8e8 0%,
-    #b5b5b5 50%,
-    #7f7f7f 100%
-  );
-
+  margin: 36px 0;
+  background: linear-gradient(to bottom, #e8e8e8, #a6a6a6, #7a7a7a);
   box-shadow: 0 2px 3px rgba(0,0,0,0.2);
 }
+
 
 
 .nav, .tagline {
