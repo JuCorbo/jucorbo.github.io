@@ -111,6 +111,10 @@ h3 {
   color: var(--blue);
   font-size: 18px;
 }
+#research h3 {
+  text-align: center;
+}
+
 
 p {
   margin: 0 0 12px 0;
