@@ -5,7 +5,7 @@ title: Julien Corbo
 
 # Julien Corbo
 
-## Neuroscientist | Systems & Computational Neuroscience
+## Research Associate | Systems & Computational Neuroscience
 
 I study how population geometry in primary visual cortex supports perceptual decisions.
 
