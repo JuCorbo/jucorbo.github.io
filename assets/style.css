@@ -60,7 +60,7 @@ body {
 }
 
 .tagline {
-  margin: 6px 0 0px 0;
+  margin: 6px 0 8px 0;
   color: var(--muted);
   font-size: 18px;
 }
