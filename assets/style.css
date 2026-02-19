@@ -97,7 +97,7 @@ body {
 }
 
 .gif-divider {
-  height: 30px; /* adjust to gif height */
+  height: 28px; /* adjust to gif height */
   margin: 40px 0;
   background-image: url("lightSep.gif");
   background-position: center;
