@@ -65,18 +65,34 @@ body {
   font-size: 18px;
 }
 
-.nav {
-  font-size: 14px;
-}
-
 .nav a {
-  color: var(--blue);
+  display: inline-block;
+  padding: 4px 10px;
+  margin: 0 3px;
+
+  font-family: "Verdana", Arial, sans-serif;
+  font-size: 13px;
   text-decoration: none;
+
+  color: var(--blue);
+  background: #dcdcdc;
+
+  border-top: 2px solid #ffffff;
+  border-left: 2px solid #ffffff;
+  border-bottom: 2px solid #7a7a7a;
+  border-right: 2px solid #7a7a7a;
+}
+.nav a:hover {
+  background: #e8e8e8;
 }
 
-.nav a:hover {
-  text-decoration: underline;
+.nav a:active {
+  border-top: 2px solid #7a7a7a;
+  border-left: 2px solid #7a7a7a;
+  border-bottom: 2px solid #ffffff;
+  border-right: 2px solid #ffffff;
 }
+
 
 .sep {
   color: #777;
