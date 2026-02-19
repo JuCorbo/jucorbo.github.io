@@ -100,8 +100,9 @@ body {
   height: 30px; /* adjust to gif height */
   margin: 40px 0;
   background-image: url("lightSep.gif");
-  background-repeat: repeat-x;
   background-position: center;
+    border: none !important;
+  outline: none !important;
 }
 
 
