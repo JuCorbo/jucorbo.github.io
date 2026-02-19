@@ -96,14 +96,18 @@ body {
   box-shadow: 0 2px 3px rgba(0,0,0,0.2);
 }
 
-.gif-divider {
-  height: 28px; /* adjust to gif height */
+.gif-divider{
+  height: 30px;                 /* exact gif height */
   margin: 40px 0;
-  background-image: url("lightSep.gif");
-  background-position: center;
-    border: none !important;
-  outline: none !important;
+  background: transparent url("lightSep.gif") repeat-x center;
+  background-size: auto 30px;   /* force exact height */
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 0;
+  line-height: 0;
+  display: block;
 }
+
 
 
 
