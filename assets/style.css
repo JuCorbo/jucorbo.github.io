@@ -36,13 +36,21 @@ body {
   padding: 18px 14px 7px 14px;
 }
 
-.brain {
-  display: block;
-  margin: 0 auto 10px auto;
-  width: 72px;
-  height: 72px;
-  image-rendering: pixelated; /* keeps it retro if it's a pixel gif */
+.brain-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;   /* space between gifs */
+  margin-bottom: 12px;
 }
+
+.brain-row img {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+  image-rendering: pixelated; /* keeps retro vibe if pixel art */
+}
+
 
 .siteTitle {
   margin: 0;
