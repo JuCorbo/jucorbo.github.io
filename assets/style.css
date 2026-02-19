@@ -84,7 +84,7 @@ body {
 }
 
 .content {
-  margin-top: 14px;
+  margin-top: 5px;
   padding: 18px 18px;
 }
 
@@ -98,7 +98,7 @@ body {
 
 .gif-divider{
   height: 30px;                 /* exact gif height */
-  margin: 40px 0;
+  margin: 15px 0;
   background: transparent url("lightSep.gif") repeat-x center;
   background-size: auto 30px;   /* force exact height */
   border: 0 !important;
