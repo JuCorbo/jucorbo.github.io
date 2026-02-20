@@ -115,7 +115,7 @@ body {
 .gif-divider{
   height: 30px;                 /* exact gif height */
   margin: 20px 0;
-  background: transparent url("lightSep.gif") repeat-x center;
+  background: transparent url("lightSep.gif") center;
   background-size: auto 30px;   /* force exact height */
   border: 0 !important;
   outline: 0 !important;
