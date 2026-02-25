@@ -138,6 +138,25 @@ body {
   border: 1px solid #888;
 }
 
+/* Responsive floats: scale with column */
+.float-right,
+.float-left {
+  width: 425px;          /* desktop target */
+  max-width: 48%;        /* never exceed ~half the column */
+  height: auto;
+}
+
+/* Mobile: stack image above text */
+@media (max-width: 600px) {
+  .float-right,
+  .float-left {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 12px auto 16px auto;
+  }
+}
 
 .nav, .tagline {
   font-family: "Verdana", Arial, sans-serif;
